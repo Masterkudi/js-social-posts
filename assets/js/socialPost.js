@@ -58,3 +58,9 @@ const posts = [
         "created": "2021-03-05"
     }
 ];
+
+//imposto un ciclo for
+
+for (let i = 0; i < posts.length; i++) {
+
+}
